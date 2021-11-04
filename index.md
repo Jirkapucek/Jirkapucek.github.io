@@ -9,4 +9,5 @@ Jsem student bakalářského programu matematické modelování na Matematicko-f
 \\
 E-mail: jirkapucek@seznam.cz
 \\
+\\
 <a href="https://jirkapucek.github.io/vitae.pdf" target="_blank">Curriculum vitae</a>
