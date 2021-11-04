@@ -7,4 +7,4 @@ Jsem student bakalářského programu matematické modelování na Matematicko-f
 \\
 E-mail: jirkapucek@seznam.cz
 \\
-<a href="https://github.com/fabfabit/MyStuff_public/blob/master/files/ProjMarr_slides.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://jirkapucek.github.io/vitae.pdf" target="_blank">PDF.</a>
