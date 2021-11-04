@@ -1,4 +1,4 @@
-![Book yep](/least-github-pages/assets/yep.jpg)
+![Book yep](/yep.jpg)
 
 ORA ET LABORA
 \\
